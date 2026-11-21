@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "drydown",
+    "double_plant",
+    "weed_cluster",
+    "planter_skip"
+  ],
+  "thresholds": {
+    "drydown": 0.61,
+    "double_plant": 0.67,
+    "weed_cluster": 0.62,
+    "planter_skip": 0.58
+  },
+  "img_size": 224
+}
